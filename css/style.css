@@ -31,3 +31,14 @@
 .am{
     color: red;
 }
+.top-heading{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text{
+    color: gray;
+}
+.card-title{
+    font-size: 30px;
+    color: indigo;
+}
