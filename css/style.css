@@ -1,0 +1,33 @@
+.half1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half1 img{
+    width: 100%;
+}
+.walker{
+    color: chartreuse;
+}
+.rupa-card{
+    border: 0;
+}
+.rupa-card-footer{
+    border: 0;
+    background-color: white;
+}
+.catagrious img {
+    width: 100px;
+}
+.rupa-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.dext-icon{
+    width: 70px;
+    height: auto;
+}
+.am{
+    color: red;
+}
